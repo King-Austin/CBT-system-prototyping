@@ -1,0 +1,5 @@
+{
+  "name": "Offline CBT System Prototype",
+  "description": "A React-based frontend prototype for a Computer-Based Testing (CBT) system designed to run on a local network. It features a student login, exam dashboard, a timed exam interface, and a results screen with AI-powered explanations.",
+  "requestFramePermissions": []
+}
